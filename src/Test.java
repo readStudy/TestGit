@@ -11,9 +11,13 @@ public class Test {
         // test branch 3
         
         // test branch 4
+<<<<<<< HEAD
         
 
         // test
+=======
+
+>>>>>>> branch 'master' of git@github.com:readStudy/TestGit.git
     }
 
 }
