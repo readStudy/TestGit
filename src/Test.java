@@ -6,6 +6,8 @@ public class Test {
         
         // test branch 1
         
+        // test branch 2
+        
     }
 
 }
