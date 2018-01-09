@@ -8,10 +8,13 @@ public class Test {
         
         // test branch 2
         
+<<<<<<< Upstream, based on origin/test
         // test branch 3
         
         // test branch 4
         
+=======
+>>>>>>> 7c911d2 merge test
     }
 
 }
