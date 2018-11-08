@@ -13,5 +13,10 @@ public class Test {
         // test branch 4
         // test
     }
+    
+ // add something ........
+    public static void test() {
+        System.out.println("aaaa");
+    }
 
 }
