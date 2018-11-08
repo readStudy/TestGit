@@ -26,5 +26,9 @@ public class Test {
     public static void test2() {
         // something in there
     }
+    
+    public static void test3() {
+        // something in there
+    }
 
 }
