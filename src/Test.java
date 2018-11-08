@@ -18,5 +18,9 @@ public class Test {
     public static void test() {
         System.out.println("aaaa");
     }
+    
+    public static void test() {
+        // something in here
+    }
 
 }
